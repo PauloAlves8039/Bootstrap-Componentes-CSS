@@ -6,3 +6,8 @@
 .jumbotron {
     margin-top: 55px;
 }
+
+#card-image1, #card-image2, #card-image3 {
+    margin: 30px;
+    width: 20rem;    
+}
