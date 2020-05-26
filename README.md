@@ -17,5 +17,8 @@ código fonte o projeto teve como base no curso  [Bootstrap 4 - Componentes CSS]
 - [HTML5](https://www.w3schools.com/html/).
 - [Bootstrap v4.5.0](https://getbootstrap.com/docs/4.5/getting-started/introduction/).
 
+## :camera: Screenshot
+![Screenshot](https://github.com/PauloAlves8039/Bootstrap-Componentes-CSS/blob/master/assets/img/screenshot.png)
+
 ## Author
 :boy: [Paulo Alves](https://github.com/PauloAlves8039)
