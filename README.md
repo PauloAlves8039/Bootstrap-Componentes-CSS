@@ -9,15 +9,15 @@
 </p>
 
 ## :computer: Projeto
-Repositório de uma página web com o objetivo de exemplificar o uso de componentes CSS do framework Bootstrap 4, 
-código fonte o projeto teve como base no curso  [Bootstrap 4 - Componentes CSS](https://www.treinaweb.com.br/curso/bootstrap-4-componentes-css). 
+Repositório de uma página web com o objetivo de exemplificar e testar o uso de componentes CSS do framework Bootstrap 4, 
+código fonte o projeto teve como base no curso  [Bootstrap 4 - Componentes CSS](https://www.treinaweb.com.br/curso/bootstrap-4-componentes-css) no pode ser estendido para cursos futuros. 
 
 ## :wrench: Recursos Utilizados
 - [Visual Studio Code v1.45.1](https://code.visualstudio.com/).
 - [HTML5](https://www.w3schools.com/html/).
 - [Bootstrap v4.5.0](https://getbootstrap.com/docs/4.5/getting-started/introduction/).
 
-## :camera: Screenshot
+## :camera: Screenshots
 ![Screenshot1](https://github.com/PauloAlves8039/Bootstrap-Componentes-CSS/blob/master/assets/img/screenshot1.png)
 ![Screenshot2](https://github.com/PauloAlves8039/Bootstrap-Componentes-CSS/blob/master/assets/img/screenshot2.png)
 ![Screenshot3](https://github.com/PauloAlves8039/Bootstrap-Componentes-CSS/blob/master/assets/img/screenshot3.png)
