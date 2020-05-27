@@ -18,7 +18,9 @@ código fonte o projeto teve como base no curso  [Bootstrap 4 - Componentes CSS]
 - [Bootstrap v4.5.0](https://getbootstrap.com/docs/4.5/getting-started/introduction/).
 
 ## :camera: Screenshot
-![Screenshot](https://github.com/PauloAlves8039/Bootstrap-Componentes-CSS/blob/master/assets/img/screenshot.png)
+![Screenshot1](https://github.com/PauloAlves8039/Bootstrap-Componentes-CSS/blob/master/assets/img/screenshot1.png)
+![Screenshot2](https://github.com/PauloAlves8039/Bootstrap-Componentes-CSS/blob/master/assets/img/screenshot2.png)
+![Screenshot3](https://github.com/PauloAlves8039/Bootstrap-Componentes-CSS/blob/master/assets/img/screenshot3.png)
 
 ## Author
 :boy: [Paulo Alves](https://github.com/PauloAlves8039)
